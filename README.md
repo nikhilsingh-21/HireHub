@@ -76,7 +76,7 @@ HireHub/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/HireHub.git
+git clone https://github.com/nikhilsingh-21/HireHub.git
 cd HireHub
 ```
 
